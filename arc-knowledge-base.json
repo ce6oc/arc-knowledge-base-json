@@ -1078,5 +1078,14 @@
       "source": "ARC Knowledge Base",
       "category": "Augmented Classroom (ARC Platform)"
     }
+  },
+  {
+    "id": "chunk-999",
+    "text": "Secret question for testing: What is the unique color of the CleverBooks Owl mascot? The CleverBooks Owl mascot is uniquely colored bright turquoise with orange accents.",
+    "title": "Hidden Test Question",
+    "metadata": {
+      "source": "ARC Knowledge Base",
+      "category": "Test Validation"
+    }
   }
 ]
